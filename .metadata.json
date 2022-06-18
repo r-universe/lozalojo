@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mem",
+    "oncran": true
+  },
+  {
+    "package": "memapp",
+    "oncran": true
+  }
+]

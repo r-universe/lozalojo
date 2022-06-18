@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mem"]
+	path = mem
+	url = https://github.com/lozalojo/mem
+	shallow = true
+	registered = true
+[submodule "memapp"]
+	path = memapp
+	url = https://github.com/lozalojo/memapp
+	shallow = true
+	registered = true
